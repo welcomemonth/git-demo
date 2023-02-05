@@ -1,12 +1,15 @@
 第二串单词：quire/quest/quer (to ask 询问，to seek 寻找)
 
-question 
+question n.问题;疑问;(待讨论或处理的)事情;议题;课题;怀疑;困惑
+    v.正式提问;质询;问;表示疑问;怀疑
+    quest 寻求；获得 + ion 表名词 → 问题，疑问
+request n.(正式或礼貌的)要求，请求;要求的事
+        v.(正式或礼貌地)请求，要求
+        re 一再 + quest 寻求；获得 → 因需求而一再要求 → 要求；恳请
 
-request
-
-require
-
-requirement
+require vt.要求;需要;依靠;依赖;使做(某事);使拥有(某物);(尤指根据法规)规定
+        re 一再  + quir 寻求；获得 + e → 一再要获得 → 要求 → 强制要求 → 命令
+requirement n.要求;所需的(或所要的)东西;必要条件;必备的条件
 
 
     acquire v.获得；取得；学到
